@@ -1,0 +1,22 @@
+.users {
+  margin: 0 1rem 2rem 1rem;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-avatar {
+  display: inline-block;
+  max-width: 100%;
+}
+
+.heading {
+  display: inline-block;
+  margin-left: 35rem;
+  margin-top: 1rem;
+}
+
+.add-user-btn {
+  float: right;
+  margin-top: 1.5rem;
+}
