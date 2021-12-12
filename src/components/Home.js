@@ -33,7 +33,7 @@ export default function Home() {
       <Row className="users">
         {users.map((user) => {
           return (
-            <Col md={4}>
+            <Col md={4} className="mt-5">
               <div key={user.id}>
                 <Link to={`/users/${user.id}`}>
                   <img src={user.avatar} alt="user" className="user-avatar" />

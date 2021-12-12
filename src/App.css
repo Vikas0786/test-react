@@ -3,3 +3,17 @@
   margin-top: 2rem;
   width: 30rem;
 }
+.btn-back {
+  display: inline-block;
+  margin-top: -1rem;
+}
+.profile-header {
+  display: inline-block;
+  margin-left: 20rem;
+  margin-top: 1rem;
+}
+.addnew-header {
+  display: inline-block;
+  margin-left: 30rem;
+  margin-top: 1rem;
+}
